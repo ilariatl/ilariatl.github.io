@@ -1,0 +1,15 @@
+#header {
+  border: 3px solid aquamarine;
+}
+
+#logo {
+  opacity: 0.2;
+}
+
+#logo:hover {
+  opacity: 1;
+}
+
+h1:hover {
+  color: red;
+}
